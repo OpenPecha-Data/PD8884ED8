@@ -1,0 +1,30 @@
+id: PD8884ED8
+initial_creation_type: input
+source_metadata:
+  title: Mantra Series
+  language: en
+  description: 'Texts on the theme of Mantra (sngags):'
+  volume:
+    c7f56e81ae714e8e9c9a034fa9142810:
+      title: The Benefits of the Vajra Guru Mantra and an Explanation of Its Syllables
+      parent: Benefits
+    08a2af07276d479097dc6158f8297970:
+      title: The Mantra Collection that Incinerates All the Diseases of this Kaliyuga
+      parent: Collections
+    3d1c4bb8d00f4525b0dc21db3f7da32b:
+      title: 'Garland of Night-Blooming Water Lilies: A Commentary on the Guru Siddhi
+        Mantra'
+      parent: Commentary
+    6d75a1d6f274451c91be071e3fe49711:
+      title: The Meaning of the Six Syllables of the King of Vidyā-Mantras, the Heroic
+        Lord Mañjuśrī
+      parent: Commentary
+    de438576b6ed4623abbacccbe824bc07:
+      title: A Synopsis of the Vajra-Guru Mantra
+      parent: Commentary
+    be65444f82ca4749bd4bb4cba197a168:
+      title: In Praise of the Meaning of the Main Mantras of the Peaceful and Wrathful
+        Deities
+      parent: Praise
+created_at: '2022-03-01T04:37:49.018077'
+last_modified_at: '2022-03-01T04:37:49.018084'
